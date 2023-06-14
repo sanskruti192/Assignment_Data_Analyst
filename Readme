@@ -1,0 +1,1 @@
+The structured data model is build to normalize the tables to an extend but can be normalized further. Also, there are some assumptions, while answering parts 3 and 4. I have assumed there are some common issues necessary to ensure data quality checks. One of the issues addressed is the inconsistent date format.
